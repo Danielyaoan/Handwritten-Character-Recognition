@@ -177,7 +177,7 @@ pip install matplotlib
   
 
 ```sh
-git clone https://github.com/EEL5840-EEE4773-Spring2022/final-project-code-and-report-probably-pandas#about-the-project
+git clone https://github.com/Danielyaoan/Handwritten-Character-Recognition.git
 ```
 
 
@@ -256,7 +256,7 @@ Dhruv Kushwaha
 Tre’ Jeter  
 Yao An Lee   
 
-Project Link: [Handwritten Character Recognition](https://github.com/EEL5840-EEE4773-Spring2022/final-project-code-and-report-probably-pandas)
+Project Link: [Handwritten Character Recognition](https://github.com/Danielyaoan/Handwritten-Character-Recognition.git)
 
   
 
